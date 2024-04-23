@@ -1,7 +1,7 @@
 #This is your map for learning resources!
 
 ## PCB Design tools: 
-https://techexplorations.com/so/kicad-like-a-pro-3rd-edition/
+https://techexplorations.com/so/kicad-like-a-pro-3rd-edition/  (book to be added soon)
 
 https://www.kicad.org/download/
 
